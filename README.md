@@ -5,7 +5,7 @@ Fitur API add item to a todo list, update, select and remove.
 
 ### Usage
 * Membuat database dengan nama : dbtodo, pada application.properties 
-* Modify the username and pawsord in the file mention above with this line:  spring.datasource.username=testUsername spring.datasource.password=testpasword
+* Ubah user dan pass sesuai dengan database lokal
 * IDE ([IntelliJ](https://www.jetbrains.com/idea/), [STS](https://spring.io/tools))
 
 ##  Application Demo with [Postman](https://www.postman.com/):
